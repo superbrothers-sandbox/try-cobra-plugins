@@ -1,0 +1,6 @@
+package: github.com/superbrothers-sandbox/try-cobra-plugins
+import:
+- package: github.com/spf13/cobra
+  subpackages:
+  - cobra
+- package: github.com/ghodss/yaml
